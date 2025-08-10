@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"96bd2cb90552334a","type":"file","file":"DevTools/Files/Docker vs VM.png","x":-240,"y":-633,"width":429,"height":285},
+		{"id":"2c0811650f85b9d8","type":"text","text":"- Tienen su propio sistema operativo.\n- Son más pesadas y ocupan más espacio.\n- Tardan más en iniciar.\n- Usan más recursos del sistema.\n- Aíslan completamente todo el entorno.\n- Ideales para ejecutar sistemas completos o entornos diferentes.\n- Más seguras en términos de aislamiento total.","x":220,"y":-643,"width":420,"height":260},
+		{"id":"54a38dc653835599","type":"text","text":"# Maquinas Virtuales","x":270,"y":-278,"width":320,"height":63},
+		{"id":"bfb30cf0e53a7d28","type":"text","text":"Es un sistema operativo completo que corre dentro de otro sistema operativo, simulando una computadora separada.","x":-185,"y":-320,"width":320,"height":147},
+		{"id":"44f83783de12c4f3","type":"text","text":"Es un paquete ligero que incluye una aplicación y todo lo que necesita para funcionar, usando el mismo sistema operativo del equipo donde se ejecuta.","x":-160,"y":-855,"width":330,"height":160},
+		{"id":"04f550db1bef4411","type":"text","text":"- Comparten el sistema operativo del host.\n- Son ligeros y ocupan poco espacio.\n- Se inician muy rápido.\n- Usan menos recursos.\n- Aíslan a nivel de proceso.\n- Ideales para ejecutar aplicaciones específicas.\n- Fáciles de mover y desplegar.","x":-680,"y":-633,"width":420,"height":240},
+		{"id":"f73224a0e98a48b7","type":"text","text":"# Contenedores","x":-600,"y":-800,"width":260,"height":50}
+	],
+	"edges":[
+		{"id":"71a401318ef4a081","fromNode":"f73224a0e98a48b7","fromSide":"right","toNode":"44f83783de12c4f3","toSide":"left"},
+		{"id":"3d3fb85dda441c03","fromNode":"f73224a0e98a48b7","fromSide":"bottom","toNode":"04f550db1bef4411","toSide":"top"},
+		{"id":"542bc8a3d154559d","fromNode":"54a38dc653835599","fromSide":"left","toNode":"bfb30cf0e53a7d28","toSide":"right"},
+		{"id":"ac2d3467c9aa85a9","fromNode":"54a38dc653835599","fromSide":"top","toNode":"2c0811650f85b9d8","toSide":"bottom"}
+	]
+}
