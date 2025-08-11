@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"96bd2cb90552334a","type":"file","file":"DevTools/Files/Docker vs VM.png","x":-240,"y":-633,"width":429,"height":285},
+		{"id":"96bd2cb90552334a","type":"file","file":"Files/Docker vs VM.png","x":-240,"y":-633,"width":429,"height":285},
 		{"id":"2c0811650f85b9d8","type":"text","text":"- Tienen su propio sistema operativo.\n- Son más pesadas y ocupan más espacio.\n- Tardan más en iniciar.\n- Usan más recursos del sistema.\n- Aíslan completamente todo el entorno.\n- Ideales para ejecutar sistemas completos o entornos diferentes.\n- Más seguras en términos de aislamiento total.","x":220,"y":-643,"width":420,"height":260},
 		{"id":"54a38dc653835599","type":"text","text":"# Maquinas Virtuales","x":270,"y":-278,"width":320,"height":63},
 		{"id":"bfb30cf0e53a7d28","type":"text","text":"Es un sistema operativo completo que corre dentro de otro sistema operativo, simulando una computadora separada.","x":-185,"y":-320,"width":320,"height":147},
