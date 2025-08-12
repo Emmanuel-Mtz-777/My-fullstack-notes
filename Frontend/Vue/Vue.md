@@ -5,4 +5,4 @@ tags:
   - "#Frameword"
 autor: Leviek
 ---
-Vue es un framework progresivo de [[Javascript]]
+Vue es un framework [[Frontend]] progresivo de Javascript

@@ -6,4 +6,4 @@ El **backend** es la parte de una aplicación o sistema que se encarga de la ló
 
 En una aplicación web, por ejemplo, el backend recibe las solicitudes del usuario (como iniciar sesión, enviar un formulario o pedir información), procesa esos datos, interactúa con la base de datos y luego envía la respuesta adecuada al frontend para que se muestre en pantalla.
 
-El backend suele estar formado por servidores, bases de datos, APIs y la lógica programada en lenguajes como JavaScript con [[Node.js]], Python, Java, PHP donde el framework mas popular es [[Laravel]], [[Go]], entre otros.
+El backend suele estar formado por servidores, bases de datos, APIs y la lógica programada en lenguajes como [[Javascript]] con [[Node.js]], Python, Java, PHP donde el framework mas popular es [[Laravel]], [[Go]], entre otros.
